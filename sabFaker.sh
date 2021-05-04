@@ -8,7 +8,7 @@
 ## 4 Indexer's report number (if supported)
 ## 5 User-defined category
 
-scriptLoc="/home/jarvis/scripts/sabNZBDtoBeets/sabNZBDtoBeets.sh"
+scriptLoc="/home/jarvis/github/sabNZBDtoBeets/sabNZBDtoBeets.sh"
 targetDir="$1"
 
 for dir in "$targetDir"*
